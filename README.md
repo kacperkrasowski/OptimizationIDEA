@@ -4,7 +4,7 @@
 - [PS2 EX4](https://www.youtube.com/watch?v=ujtflGrCfDE)
 - [Vacuous Truth](https://www.youtube.com/watch?v=ubpKo5maLw4)
 - [Pigeonhole Principle](https://www.youtube.com/watch?v=B2A2pGrDG8I)
-- [Open AI'a Course on how to use AI to study](https://academy.openai.com/public/courses/ai-for-college-students-gxgmr)
+- [Open AI's Course on how to use AI to study](https://academy.openai.com/public/courses/ai-for-college-students-gxgmr)
 
 
 **Side Notes**
