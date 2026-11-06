@@ -10,3 +10,5 @@
 **Side Notes**
 - **TA4.pdf** also includes some instructions on *Disproving* and *Negating*, worth checking it out to have it in your proving toolkit.
 - **TA7.pdf** contains a appendix on *Cauchy Schwarz inequality*
+- [EX6 PS8 intuition](https://kacperkrasowski.github.io/teaching/upper-contour/)
+
