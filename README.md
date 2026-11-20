@@ -4,12 +4,12 @@
 - [PS2 EX4](https://www.youtube.com/watch?v=ujtflGrCfDE)
 - [Vacuous Truth](https://www.youtube.com/watch?v=ubpKo5maLw4)
 - [Pigeonhole Principle](https://www.youtube.com/watch?v=B2A2pGrDG8I)
-- [Open AI's Course on how to use AI to study](https://academy.openai.com/public/courses/ai-for-college-students-gxgmr)
 
 
-**Side Notes**
+**Quasi-Important stuff**
 - **TA4.pdf** also includes some instructions on *Disproving* and *Negating*, worth checking it out to have it in your proving toolkit.
 - **TA7.pdf** contains a appendix on *Cauchy Schwarz inequality*
+- **TA9.pdf** contains a *KKT solution cookbook* and a detailed step by step solution to a problem
 - [EX6 PS8 intuition](https://kacperkrasowski.github.io/teaching/upper-contour/)
-- [Interactive EX4,5,6 PS9]([https://kacperkrasowski.github.io/teaching/ta9/))
-
+- [Interactive EX4,5,6 PS9]([https://kacperkrasowski.github.io/teaching/ta9/)
+- [Open AI's Course on how to use AI to study](https://academy.openai.com/public/courses/ai-for-college-students-gxgmr)
