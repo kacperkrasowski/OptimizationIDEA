@@ -11,5 +11,5 @@
 - **TA7.pdf** contains a appendix on *Cauchy Schwarz inequality*
 - **TA9.pdf** contains a *KKT solution cookbook* and a detailed step by step solution to a problem
 - [EX6 PS8 intuition](https://kacperkrasowski.github.io/teaching/upper-contour/)
-- [Interactive EX4,5,6 PS9]([https://kacperkrasowski.github.io/teaching/ta9/)
+- [Interactive EX4,5,6 PS9](https://kacperkrasowski.github.io/teaching/ta9/)
 - [Open AI's Course on how to use AI to study](https://academy.openai.com/public/courses/ai-for-college-students-gxgmr)
